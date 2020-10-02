@@ -1,4 +1,4 @@
-Hello HR!
+Hello!
 I welcome you to my assessment!
 Topic: Predicting Blurred images and clear images
 ----------------------------------------------------------------
